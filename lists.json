@@ -1,7 +1,7 @@
 {
-  "version": "2026-11-26_12-25",
-  "generated_at": "2026-11-26T12:25:25Z",
-  "base_url": "https://raw.githubusercontent.com/splify2/splify2-lists/main/lists",
+  "version": "2026-11-26_20-10",
+  "generated_at": "2026-11-26T20:10:48Z",
+  "base_url": "https://raw.githubusercontent.com/alexint4-alt/splify2-lists/main/lists",
   "categories": [
     {
       "id": "itdoginfo:cloudflare",
@@ -617,6 +617,14 @@
       "count": 18,
       "default_on": false,
       "description_ru": "Домены, где ТСПУ подтверждённо режет соединение (обрыв TLS, заморозка ~16 КБ) дольше суток — находит DPI-монитор betternet, проверка напрямую каждые 6 часов; снятая блокировка уходит из списка сама",
+      "kind": "domains"
+    },
+    {
+      "id": "my",
+      "name_ru": "my",
+      "file": "my.lst",
+      "count": 1,
+      "default_on": false,
       "kind": "domains"
     },
     {
